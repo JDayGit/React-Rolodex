@@ -1,0 +1,11 @@
+.search{
+     font-size: 22px;
+     margin-top:2vh;
+     margin-bottom:6vh;
+     padding:12px;
+     width:80%;
+     color: #B8B8B8;
+     border: 1.5px solid black;
+     border-radius:10px;
+     background: #333333;
+   }
